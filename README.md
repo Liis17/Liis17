@@ -1,7 +1,7 @@
-<h1 align="center">Привет, Я не Славик 🦊</h1>
+<h1 align="center">Привет, Я Li_is 🦊</h1>
 <h3 align="center">Разработчик Orpad </h3>
 
-- 🧑‍💻 Сейчас я работаю в [не в Астрале](https://astral.ru)
+- 🧑‍💻 Сейчас я работаю в [DNS Shop](https://www.dns-shop.ru/)
 
 - 🎨 Мой самый активный пет проект: [Orpad](https://www.microsoft.com/store/apps/9N1JLXJ38RC7)
 
@@ -18,7 +18,7 @@
 
 ### 💭 Статистика github
 
-![Статистика](https://github-readme-stats.vercel.app/api?username=Li_is&show_icons=true&theme=github_dark)
+![Статистика](https://github-readme-stats.vercel.app/api?username=Liis17&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Li_is&layout=compact&theme=github_dark)](https://github.com/Li_is/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liis17&layout=compact&theme=github_dark)](https://github.com/Liis17/github-readme-stats)
 
