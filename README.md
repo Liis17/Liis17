@@ -18,9 +18,5 @@
 
 ### 💭 Статистика github
 
-[![Li_is's GitHub stats](https://github-readme-stats.vercel.app/api?username=liis17)](https://github.com/anuraghazra/github-readme-stats)
 ![Li_is's GitHub stats](https://github-readme-stats.vercel.app/api?username=liis17&hide=contribs,prs)
-![Li_is's GitHub stats](https://github-readme-stats.vercel.app/api?username=liis17&count_private=true)
-![Li_is's GitHub stats](https://github-readme-stats.vercel.app/api?username=liis17&show_icons=true)
-![Li_is's GitHub stats](https://github-readme-stats.vercel.app/api?username=liis17&show_icons=true&theme=radical)
 
