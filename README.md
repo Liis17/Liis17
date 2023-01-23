@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liis17
 - 👀 I’m interested in ... I have no idea.
-- 🌱 I’m currently work at the DNS
+- 🌱 I’m currently work at the DNS Shop
 - 💞️ I'm want to cooperate with my brain
 - 📫 How to reach me 
 - li_is.t.me
