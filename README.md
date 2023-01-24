@@ -1,9 +1,15 @@
 <h1 align="center">Привет, Я Li_is 🦊</h1>
-<h3 align="center">Разработчик Orpad </h3>
+<h3 align="center">Разработчик <s>говна</s> Orpad и других приложений </h3>
 
-- 🧑‍💻 Сейчас я работаю в [DNS Shop](https://www.dns-shop.ru/)
+ ### 🧑‍💻 Сейчас я работаю в [DNS Shop](https://www.dns-shop.ru/)
 
-- 🎨 Мой самый активный пет проект: [Orpad](https://www.microsoft.com/store/apps/9N1JLXJ38RC7)
+ ### 🎨 Мой самый активный пет проект: [Orpad](https://www.microsoft.com/store/apps/9N1JLXJ38RC7)
+ ### 🖼️ Мои другие проекты: 
+-    😼[OverwatchPick](https://github.com/Liis17/OverwatchPick)
+-    😽[InstallerWSA](https://github.com/Liis17/InstallerWSA)
+-    🙀[Noc](https://github.com/Liis17/Noc)
+-    😻[Tea_Timer](https://github.com/Liis17/Tea_Timer)
+-    🐱[JustVP](https://github.com/Liis17/JustVP)
 
 ### ⚙️ Мой стек и фреймверки:
 - 🖌️ WPF
