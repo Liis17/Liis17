@@ -8,8 +8,6 @@
 -    😼[OverwatchPick](https://github.com/Liis17/OverwatchPick)
 -    😽[InstallerWSA](https://github.com/Liis17/InstallerWSA)
 -    🙀[Noc](https://github.com/Liis17/Noc)
--    😻[Tea_Timer](https://github.com/Liis17/Tea_Timer)
--    🐱[JustVP](https://github.com/Liis17/JustVP)
 
 ### ⚙️ Мой стек и фреймверки:
 - 🖌️ WPF
@@ -18,7 +16,6 @@
 - ❤️‍🔥 GitHub
 - 🤡 Unity
 - 🤠 Unreal Engine
-- 😈 Blender
 - 🐗 и другие прикольные штуки
 
 ### 🦊 Мои социальные сети:
