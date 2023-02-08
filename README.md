@@ -27,3 +27,4 @@
 
 ![Li_is's GitHub stats](https://github-readme-stats.vercel.app/api?username=liis17&hide=contribs,prs)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nz5oemtevvazat5npqlcxflsza&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31nz5oemtevvazat5npqlcxflsza&redirect=true)
